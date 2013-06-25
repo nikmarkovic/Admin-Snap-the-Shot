@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Admin Snap the Shot</string>
+    
+    <string name="add_city">Dodaj grad</string>
+    <string name="city_name">Naziv grada</string>
+    <string name="sight_name">Naziv znamenitosti</string>
+    <string name="sight_description">Opis</string>
+    <string name="sight_latitude">Latitude</string>
+    <string name="sight_longitude">Longitude</string>
+    <string name="get_coordinates">Pronađi koordinate</string>
+    <string name="add_sight">Dodaj znamenitost</string>
+    <string name="fetching">Fetching\u2026</string>
+    <string name="adding">Adding\u2026</string>
+</resources>
