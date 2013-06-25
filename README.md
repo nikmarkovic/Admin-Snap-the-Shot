@@ -1,7 +1,7 @@
 Admin Snap the Shot
 ===================
 
-Administratorska aplikacija za igru Snap the Shot. Koriste je ovlašćena lica za dodavanje nivoa.
+Android aplikacija za administraciju igre Snap the Shot. Koriste je ovlašćena lica za dodavanje nivoa.
 
 INSTALL
 ===================
